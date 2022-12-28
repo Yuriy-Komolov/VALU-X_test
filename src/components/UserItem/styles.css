@@ -1,0 +1,18 @@
+.user-item__modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.user-item__box {
+  border: 1px solid grey;
+  /* padding: 40px; */
+  background-color: #fff;
+}
